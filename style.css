@@ -7,7 +7,7 @@
   width: 100%;
   height: 808px;
   flex-shrink: 0;
-  background-image: url("../images/banner/banner1.png");
+  background-image: url("./images/banner/banner1.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -114,7 +114,7 @@
   width: 60%;
   margin: auto;
   background: blueviolet;
-  background-image: url("../images/watch.png"),
+  background-image: url("./images/watch.png"),
     linear-gradient(90deg, #f15b22 0%, rgba(241, 91, 34, 0) 100%);
   background-position: center;
   background-repeat: no-repeat;
